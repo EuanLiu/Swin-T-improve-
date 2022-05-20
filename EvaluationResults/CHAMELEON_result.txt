@@ -1,0 +1,1 @@
+(Dataset:CHAMELEON; Model:SINet-V2) Smeasure:NaN; wFmeasure:NaN;MAE:NaN; adpEm:NaN; meanEm:NaN; maxEm:NaN; adpFm:NaN; meanFm:NaN; maxFm:NaN.

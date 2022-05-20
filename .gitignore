@@ -1,0 +1,39 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/snapshot/20201214-Network_Res2Net_GRA_NCD/
+res2net50_v1b_26w_4s-3cf99910.pth
+swin_tiny_patch4_window7_224.pth
+res2net50_v1b_26w_4s-3cf99910.pth
+swin_tiny_patch4_window7_224.pth
+*.pth
+*.pth
